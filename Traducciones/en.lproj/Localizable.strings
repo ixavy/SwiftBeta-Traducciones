@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Traducciones
+
+  Created by iXavy on 23/11/22.
+  
+*/
+
+"form-name-key" = "Name";
+"form-phone-user %@" = "User's  %@ Mobile";
+"form-header-key" = "Contact form";
+"form-footer-key" = "* All the information will be kept confidential.";
+"form-button-key" = "Accept";
+
+"tabview-name-key" = "Home";
+"tabview-profile-key" = "Profile";
